@@ -8,4 +8,5 @@ This project focuses on building an object recognition model using advanced deep
 ## Project Structure - 
 **`data/`:** This directory contains the CIFAR-10 dataset or instructions on how to obtain it.  
 **`models/`:** Here, you can find the trained ResNet50 and DenseNet models after training. 
+
 **`src/`:** The source code for the object recognition model is organized in this directory. It includes scripts or notebooks for data preprocessing, model training, and evaluation.
